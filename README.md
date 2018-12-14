@@ -28,3 +28,10 @@ python demo.py
 Credits
 ===========
 Credit for this demo code Alec Radford and can be found [here](https://gist.github.com/Newmu/4ee0a712454480df5ee3). I've merely moved some functions around and added a lot more documentation. 
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
